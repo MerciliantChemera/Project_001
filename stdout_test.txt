@@ -1,0 +1,5 @@
+This line goes to file 'stdout_test.txt'
+Apple
+Apricot
+Banana
+Kiwi
